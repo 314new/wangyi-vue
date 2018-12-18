@@ -1,0 +1,17 @@
+{
+    "commonClass": "iconfont",
+    "HeaderBarIcon": [
+        {
+            "selfClass": "small",
+            "iconClass": "icon-checkbox"
+        },
+        {
+            "selfClass": "full",
+            "iconClass": "icon-circle"
+        },
+        {
+            "selfClass": "close",
+            "iconClass": "icon-close"
+        }
+    ]
+} 
